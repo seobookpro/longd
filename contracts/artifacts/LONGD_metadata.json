@@ -561,13 +561,13 @@
 		"compilationTarget": {
 			"contracts/LONGD.sol": "LONGD"
 		},
-		"evmVersion": "constantinople",
+		"evmVersion": "cancun",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": true,
+			"enabled": false,
 			"runs": 200
 		},
 		"remappings": []
@@ -622,11 +622,11 @@
 			]
 		},
 		"contracts/LONGD.sol": {
-			"keccak256": "0xbaa858eed646b792a140192c8ba55f9a3c7e229cd647bcb59a74866bcbd648cf",
+			"keccak256": "0x4baaf9895939d18e2861415c31a8dbf81cba067a20cd8cb25fbc65a900766354",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4d1f7efe64ab8759ad3d02a0b4b432565992ceff86ad3c72cb36bd35cbf69d5c",
-				"dweb:/ipfs/QmRURV1pfTFAre54LMpm2T6zp1svaqL2iSmZEKQTswRCXs"
+				"bzz-raw://1dccec2725c0a4c62e81411b88265e06cfad2c296180f9892c204b21bdf30aa1",
+				"dweb:/ipfs/Qmesdf9o1tVL37s5iqre4DmyrEjnXeAgAzqSs93zhX1LWN"
 			]
 		}
 	},
