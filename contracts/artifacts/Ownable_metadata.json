@@ -121,7 +121,7 @@
 		"compilationTarget": {
 			"contracts/LONGD_flattened.sol": "Ownable"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "constantinople",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

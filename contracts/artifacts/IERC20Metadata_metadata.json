@@ -280,7 +280,7 @@
 		"compilationTarget": {
 			"contracts/LONGD_flattened.sol": "IERC20Metadata"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "constantinople",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

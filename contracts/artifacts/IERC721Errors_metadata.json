@@ -194,7 +194,7 @@
 		"compilationTarget": {
 			"contracts/LONGD_flattened.sol": "IERC721Errors"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "constantinople",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

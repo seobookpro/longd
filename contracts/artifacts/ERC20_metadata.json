@@ -423,7 +423,7 @@
 		"compilationTarget": {
 			"contracts/LONGD_flattened.sol": "ERC20"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "constantinople",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"

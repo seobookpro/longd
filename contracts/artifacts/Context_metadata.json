@@ -21,7 +21,7 @@
 		"compilationTarget": {
 			"contracts/LONGD_flattened.sol": "Context"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "constantinople",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
